@@ -60,37 +60,18 @@ I'm an observant, growth-driven Computer Science engineering student at **IIIT N
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Core Competencies
 
-### 🗺️ Real-Time Map-Based Enterprise Web App
-**Tech:** React, Node.js, Google Maps API, Socket.io, IndexedDB
-
-A scalable real-time mapping application built for 100+ enterprise client deployments. Features low-latency synchronization across distributed clients using WebSocket connections and client-side IndexedDB caching.
-
-**Key Achievements:**
-- Architected real-time synchronization layer supporting 100+ concurrent clients
-- Implemented IndexedDB for offline-first capabilities
-- Deployed to production supporting 100+ enterprise clients
-
-🔗 [View Project](#) | ⭐ Featured in production systems
+| Skill Area | Expertise |
+|-----------|-----------|
+| **Backend Development** | Node.js, Express.js, REST APIs, Microservices Architecture |
+| **Frontend Development** | React, Next.js, TypeScript, Responsive Design, UI/UX Implementation |
+| **AI/ML** | LLM Fine-tuning, RAG Systems, NLP, Computer Vision |
+| **System Design** | Scalable Architectures, Real-time Systems, Database Optimization |
+| **Problem Solving** | DSA, Competitive Programming, Algorithm Optimization |
+| **DevOps & Cloud** | Docker, AWS, CI/CD Pipelines, Deployment Optimization |
 
 ---
-
-### 🤖 RAG-Based AI Chatbot System
-**Tech:** LangChain, FAISS, TinyLlama, Phi-2, Mistral, LLaMA, Python
-
-Enterprise-grade AI chatbot system leveraging Retrieval-Augmented Generation (RAG) for context-aware responses. Deployed across 100+ clients managing 500+ systems with proven 30-40% reduction in customer support effort.
-
-**Key Achievements:**
-- Fine-tuned multiple transformer-based LLMs for production deployment
-- Reduced customer support effort by 30-40%
-- Enabled contextual CRM retrieval for 25+ internal users
-- Deployed at scale across 500+ systems
-
-🔗 [View Project](#) | ⭐ Production System
-
----
-
 ## 💼 Professional Experience
 
 ### **Full Stack & AI Intern** | Varnet Solutions Private Limited, Indore
@@ -141,20 +122,6 @@ Enterprise-grade AI chatbot system leveraging Retrieval-Augmented Generation (RA
 - Served as the primary point of contact for 30+ VIP guests
 - Designed contingency workflows for accommodation, proactively resolving bottlenecks using real-time feedback to optimize queue management
 
----
-
-## 💡 Core Competencies
-
-| Skill Area | Expertise |
-|-----------|-----------|
-| **Backend Development** | Node.js, Express.js, REST APIs, Microservices Architecture |
-| **Frontend Development** | React, Next.js, TypeScript, Responsive Design, UI/UX Implementation |
-| **AI/ML** | LLM Fine-tuning, RAG Systems, NLP, Computer Vision |
-| **System Design** | Scalable Architectures, Real-time Systems, Database Optimization |
-| **Problem Solving** | DSA, Competitive Programming, Algorithm Optimization |
-| **DevOps & Cloud** | Docker, AWS, CI/CD Pipelines, Deployment Optimization |
-
----
 
 ## 🌍 Languages
 - **English** - Fluent
